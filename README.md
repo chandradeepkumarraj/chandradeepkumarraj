@@ -1,13 +1,6 @@
 ## 👋Hi,I'm Chandradeep Kumar Raj 
 ### 💻 Full Stack Web Developer (MERN) | AI/ML Enthusiast | AWS Cloud Practitioner 
 
-
-
-**chandradeepkumarraj/chandradeepkumarraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
   <p>
   📣 Besoin de me contacter ? Retrouvez-moi ici :<br/>
   <a href="mailto:chandradeepkumarraj@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
